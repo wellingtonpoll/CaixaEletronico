@@ -1,0 +1,9 @@
+D:\git\CaixaEletronico\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\git\CaixaEletronico\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\git\CaixaEletronico\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\git\CaixaEletronico\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\git\CaixaEletronico\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\git\CaixaEletronico\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\git\CaixaEletronico\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\git\CaixaEletronico\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\git\CaixaEletronico\Domain\obj\Debug\netstandard2.0\Domain.pdb

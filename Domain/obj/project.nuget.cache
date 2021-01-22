@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QT5P3INkw6NY0rZICU1CvkY7HNCyVF7MRLU5Bsu8ZIl7rY0YSzAr5Rxh8Y93aYTgLmDOziy5vGO/MbHOQfSHlg==",
+  "success": true,
+  "projectFilePath": "D:\\git\\CaixaEletronico\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wellington.luiz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wellington.luiz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
